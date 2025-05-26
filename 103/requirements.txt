@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+uvicorn
+pydantic
+passlib
+bcrypt
+python-jose
+PyMuPDF
+psycopg2

@@ -1,0 +1,12 @@
+torch>=2.0.0
+transformers>=4.38.0
+datasets>=2.18.0
+peft>=0.7.1
+accelerate>=0.25.0
+psutil
+scipy>=1.10.0
+numpy>=1.23.0
+sentencepiece
+protobuf<4.0.0
+huggingface_hub
+python-dotenv
